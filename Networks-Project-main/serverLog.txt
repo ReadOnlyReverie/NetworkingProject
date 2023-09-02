@@ -1,0 +1,14 @@
+INFO: Client /127.0.0.1:6789 on port 60302 connected at time 2022-11-19 13:42:06.881
+ [Sat Nov 19 13:42:06 CST 2022]
+INFO: Calculation performed for client /127.0.0.1:6789 on port 60302
+ [Sat Nov 19 13:42:11 CST 2022]
+INFO: Client /127.0.0.1:6789 on port 60337 connected at time 2022-11-19 13:42:48.535
+ [Sat Nov 19 13:42:48 CST 2022]
+INFO: Calculation performed for client /127.0.0.1:6789 on port 60337
+ [Sat Nov 19 13:42:52 CST 2022]
+INFO: Client /127.0.0.1:6789 on port 60302 disconnected at time 2022-11-19 13:43:05.493 [Sat Nov 19 13:43:05 CST 2022]
+INFO: Client /127.0.0.1:6789 on port 60302 total service time: 58 seconds
+ [Sat Nov 19 13:43:05 CST 2022]
+INFO: Client /127.0.0.1:6789 on port 60337 disconnected at time 2022-11-19 13:43:06.809 [Sat Nov 19 13:43:06 CST 2022]
+INFO: Client /127.0.0.1:6789 on port 60337 total service time: 18 seconds
+ [Sat Nov 19 13:43:06 CST 2022]
